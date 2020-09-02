@@ -1,4 +1,4 @@
-### Hello, World 👋
+### Hello, World 💻
 
 I am Nelson Kopliku, Software Developer and Consultant [@Flowing](https://github.com/flowingis).
 
