@@ -1,10 +1,10 @@
 ### Hello, World 💻
 
-I am Nelson Kopliku, Software Developer and Consultant [@Flowing](https://github.com/flowingis).
+I am Nelson Kopliku, Software Developer
 
 Committed in discovering the best socio-technical strategies in organizations.
 
-**Agile** sustainer, **XP** practitioner, applying **Kaizen**.
+**Agile**, **XP**, **Kaizen**
 
 ***Do the right thing, and do the thing right.***
 
