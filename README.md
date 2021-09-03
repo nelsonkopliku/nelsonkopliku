@@ -10,8 +10,6 @@ Committed in discovering the best socio-technical strategies in organizations.
 
 [Twitter](https://twitter.com/koplikunel) | [Linkedin](https://www.linkedin.com/in/nelsonkopliku/)
 
-![](https://komarev.com/ghpvc/?username=nelsonkopliku)
-
 ***
 
-<sub>Credits: [badge profile counter](https://github.com/antonkomarev/github-profile-views-counter)</sub>
+<sub>Credits: [badge profile counter](C)</sub>
