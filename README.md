@@ -1,8 +1,8 @@
 ### Hello, World 💻
 
-I am Nelson Kopliku, Software Developer
+I am Nelson Kopliku, Software Engineer [@SUSE](https://github.com/SUSE)
 
-Committed in discovering the best socio-technical strategies in organizations.
+Committed in discovering and helping emerge the socio-technical architectures in business and organizations.
 
 **Agile**, **XP**, **Kaizen**
 
