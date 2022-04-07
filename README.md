@@ -1,9 +1,8 @@
 ### Hello, World 💻
 
-I am Nelson, Software Engineer and Architect [@SUSE](https://github.com/SUSE)
+I am Nelson, Software Engineer and Architect, Scrum Master, Agilist and facilitator [@SUSE](https://github.com/SUSE)
 
 Committed in discovering and helping emerge the socio-technical architectures in business and organizations.
-Scrum Master and Agilist, facilitator.
 
 **Agile**, **DDD**, **XP**, **Kaizen**
 
